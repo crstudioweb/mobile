@@ -6,8 +6,6 @@ tablet: 481px a 768pxpx
 pc: 769px a 1024pxpx
 tv: 1025px ou mais*/
 
-@media print {
-}
 @media screen and (min-width: 481px) and (max-width: 768px) {
   body {
     background-image: url(../imagens/back-tablet.jpg);
